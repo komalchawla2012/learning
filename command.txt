@@ -1,0 +1,20 @@
+Git Status 		//to check the status of the code from Git hub to local system
+Git Fetch		// to fetch the summay of changes in github code and local system
+Git Diff		// to check the difference in fetched code and local system code
+Git Pull		// to pull the code from GIT Hub. It is advised to Take GIt Pull before starting working on any code.
+Git add fileName	// to add new created file on GIT
+Git Commit -m "Comments"// to commit changes 
+Git Push		// to Push the changes to github after commit.
+Git Checkout branchname // to move to different branch within same repository
+Git merge branch2	// to merge one branch to another
+Git branch NewBranchName// to create new branch within a repository
+Git reset --hard	// to reset the code to the default present in Github, all the changes done by you will be removed, this is required when conflict is there and not resolving even after git pull
+Git add .		// to add all the changes to the Git
+
+
+Linux/Unix
+
+cd ..			// to move to previous folder
+cd repository_name	// to move to next folder
+ls			// to list out the content of the folder
+ls -la			// to see the hidden files
