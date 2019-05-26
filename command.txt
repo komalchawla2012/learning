@@ -1,3 +1,8 @@
+
+Git init		// too initatlize git to any folder, cap Git on any folder
+Git config -l		// to check configuration of git
+git config --global user.name "komalchawla" // to configure user name and email
+git config --global user.email "komalchawla2012@gmail.com" //
 Git Status 		//to check the status of the code from Git hub to local system
 Git Fetch		// to fetch the summay of changes in github code and local system
 Git Diff		// to check the difference in fetched code and local system code
